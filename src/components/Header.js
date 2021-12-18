@@ -3,7 +3,9 @@ import styled from 'styled-components';
 const StyledHeader = styled.header`
   height: 10%;
   padding: 10px;
-  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
 `;
 
 const StyledHeadline = styled.h1`
