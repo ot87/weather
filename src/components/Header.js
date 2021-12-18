@@ -6,6 +6,8 @@ const StyledHeader = styled.header`
 
   display: flex;
   justify-content: center;
+
+  box-shadow: inset 0px 0px 10px 0px #9e9e9e;
 `;
 
 const StyledHeadline = styled.h1`

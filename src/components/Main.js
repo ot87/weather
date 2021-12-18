@@ -7,6 +7,8 @@ const StyledMain = styled.main`
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+
+  box-shadow: inset 0px 0px 10px 0px #9e9e9e;
 `;
 
 const Main = () => {

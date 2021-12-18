@@ -9,6 +9,8 @@ const StyledFooter = styled.footer`
   height: 10%;
   font-size: 20px;
   padding: 10px;
+
+  box-shadow: inset 0px 0px 10px 0px #9e9e9e;
 `;
 
 const Footer = () => (
